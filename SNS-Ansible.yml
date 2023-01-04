@@ -24,7 +24,7 @@
             defaultThrottlePolicy:
                 maxReceivesPerSecond: 10
         subscriptions:
-          - endpoint: "endpoin1"
+          - endpoint: "endpoint1"
             protocol: "protocol1"
           - endpoint: "endpoint2"
             protocol: "protocol2"
