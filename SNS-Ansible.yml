@@ -24,7 +24,7 @@
             defaultThrottlePolicy:
                 maxReceivesPerSecond: 10
         subscriptions:
-          - endpoint: "Nithyagirish93@gmail.com"
+          - endpoint: "Email123@gmail.com"
             protocol: "protocol1"
           - endpoint: "endpoint2"
             protocol: "protocol2"
